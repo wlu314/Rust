@@ -1,0 +1,2 @@
+- create that takes sequential computation into parallel computing
+- automatically spawn threads
