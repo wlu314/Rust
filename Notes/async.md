@@ -1,3 +1,0 @@
-- reduce CPU overhead for database and servers (high input high output)
-- significantly higher task for operating system threads
-- async doesn't mean it's better than threads
